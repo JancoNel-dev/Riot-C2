@@ -45,7 +45,7 @@
 git clone https://github.com/JancoNel/Riot-C2.git
 cd Riot-C2
 pip install -r requirements.txt
-python riot.py
+python server.py
 ```
 
 > ☠️ For testing in a safe environment only. Never run Riot C2 on unauthorized systems.
